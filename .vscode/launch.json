@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "main.java.App",
+            "projectName": "Final Project_759d01b9"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "main.java.App",
+            "vmArgs": "-Xmx4g -Xms2g",
+            "projectName": "Final Project"
+        }
+    ]
+}
